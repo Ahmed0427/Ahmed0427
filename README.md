@@ -1,6 +1,6 @@
 ### Ahmed
 
-Just another sleep-deprived code monkey pretending caffeine is a personality trait. I build “disruptive” apps that no one asked for and sometimes reinvent wheels, because why not? I write Go and C like it’s the ‘90s—because real developers still remember when memory management was a thing and debugging was done with sheer willpower. I use nvim (obviously), because if your editor doesn’t make you question your life choices, are you even coding? Linux is my home—if it doesn’t run on Linux, it’s either garbage or some corporate nonsense and I’m not interested.
+Just another sleep-deprived code monkey pretending caffeine is a personality trait. I build “disruptive” apps that no one asked for and sometimes reinvent wheels, because why not? I write Go and C like it’s the ‘90s—because remember when memory management was a daily trauma and debugging meant staring at code until it blinked first. I use nvim btw. Linux is my home—if it doesn’t run on Linux, it’s either garbage or some corporate nonsense and I’m not interested.
 
 ### Currently Learning
 
