@@ -1,6 +1,6 @@
 ## Ahmed
 
-Just another sleep-deprived SWE pretending caffeine is a personality trait. Builds "disruptive" apps no one asked for and sometimes reinvent wheels. badly. I write Go and C because segfaults build character. I use nvim, by the way. I use Linux. The terminal is my home, and I only leave to get coffee... and even then, I run `ssh terminal.shop`
+Just another sleep-deprived SWE pretending caffeine is a personality trait. Builds "disruptive" apps no one asked for and sometimes reinvent wheels. badly. I write Go and C because segfaults build character. I use nvim, by the way. The terminal is my home, and I only leave to get coffee... and even then, I run `ssh terminal.shop`
 
 ## Currently Learning
 
