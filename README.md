@@ -1,6 +1,6 @@
 ## Ahmed
 
-just another sleep-deprived caffeine-powered CS student. Builds apps no one asked for and sometimes reinvent wheels. badly. I write Go when I’m not deep-diving into C pointers like it’s the Matrix. I use nvim, because real programmers fear the mouse. terminal is home, and I only leave to get coffee... and even then, I run `ssh terminal.shop`
+just another sleep-deprived caffeine-powered CS student. Builds apps no one asked for and sometimes reinvent wheels. badly. I write Go when I’m not deep-diving into C pointers like it’s the Matrix. I use nvim, because i hate using mouse. terminal is home, and I only leave to get coffee... and even then, I run `ssh terminal.shop`
 
 ## Currently Learning
 
