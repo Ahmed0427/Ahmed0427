@@ -1,6 +1,6 @@
 ## Ahmed
 
-Sleep-deprived CS student powered by caffeine and bad decisions. Builds apps no one asked for. Reinvents wheels, badly. Writes Go for fun, C for pain. Neovim addict. Terminal dweller. Coffee via `ssh terminal.shop`.
+Sleep-deprived CS student powered by caffeine and bad decisions. Builds apps no one asked for. Reinvents wheels, badly. Writes Go for fun, C for pain. Likes command-line tools, terminal-based workflows, and Neovim.
 
 ## Currently Learning
 
