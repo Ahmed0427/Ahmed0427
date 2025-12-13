@@ -1,6 +1,6 @@
 ## Ahmed
 
-Sleep-deprived CS student powered by caffeine and bad decisions. Builds apps no one asked for. Reinvents wheels, badly. Writes Go, C++ and C. Likes command-line tools, terminal-based workflows, and Neovim.
+Sleep-deprived CS student powered by caffeine and bad decisions. Builds apps no one asked for. Reinvents wheels, badly. Writes Go and and other languages. Likes command-line tools, terminal-based workflows, and Neovim.
 
 ## Currently Learning
 
