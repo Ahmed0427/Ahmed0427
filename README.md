@@ -2,7 +2,7 @@
 
 Sleep-deprived CS student powered by caffeine and bad decisions. Builds apps no one asked for. Reinvents wheels, badly. Writes Go and and other languages. Likes command-line tools, terminal-based workflows, and Neovim.
 
-## Currently Learning
+## Currently Working on
 
 - **Quantum JavaScript**, where `0 == 1` if you believe hard enough.
 - **OS in Excel formulas**, bootloader in `=IF(A1="BIOS",TRUE,FALSE)`.  
