@@ -1,6 +1,6 @@
 ## I'm Ahmed
 
-CS student converting caffeine into code. I love writing Go and building hyper-focused side projects. I enjoy the challenge of building tools from scratch to truly master the underlying architecture. Prefers command-line tools, terminal-first workflows, and spending far too much time customizing Neovim.
+CS student converting caffeine into code. I love writing Go, TS, C++ and building hyper-focused side projects. I enjoy the challenge of building tools from scratch to truly master the underlying architecture. Prefers command-line tools, terminal-first workflows, and spending far too much time customizing Neovim.
 
 ## Currently Working on
 
